@@ -9,7 +9,7 @@
 
 	//check license
 	$url = $_SERVER["SERVER_NAME"];
-	$licensed = file_get_contents_curl('http://gateway.sendy.co/gateway/' . $url . '/-/-/-/' . CURRENT_VERSION . '/-');
+	$licensed = file_get_contents_curl('http://gateway.sendy.co/gateway/mail.w3x.network/-/-/-/' . CURRENT_VERSION . '/-');
 	if ($licensed == 'blocked') //Firewall blocked outgoing connections, license cannot be verified
 	{
 		echo "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/><link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"><title>Outgoing connections is blocked</title></head><style type=\"text/css\">body{background: #ffffff;font-family: Helvetica, Arial;}#wrapper{background: #f2f2f2;width: 330px;height: 120px;margin: -140px 0 0 -165px;position: absolute;top: 50%;left: 50%;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}p{text-align: center;line-height: 18px;font-size: 12px;padding: 0 30px;}h2{font-weight: normal;text-align: center;font-size: 20px;}a{color: #000;}a:hover{text-decoration: none;}</style><body><div id=\"wrapper\"><p><h2>Outgoing connections blocked</h2></p><p>Your server has a firewall blocking outgoing connections. Please <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">see this troubleshooting tip</a>.</p></div></body></html>";

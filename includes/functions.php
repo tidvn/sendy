@@ -1,6 +1,4 @@
 <?php
-
-
 ini_set('display_errors', isset($_GET['display_errors']) ? 1 : 0);
 
 mysqli_report(MYSQLI_REPORT_OFF);
@@ -259,7 +257,7 @@ function start_app()
             exit;
         }
     } else {
-        $license = file_get_contents_curl(str_replace(' ', '%20', 'http://gateway.sendy.co/gateway/' . CURRENT_DOMAIN . '/' . $_SESSION['license'] . '/' . ipaddress() . '/' . str_replace('/', '|s|', APP_PATH) . '/' . CURRENT_VERSION . '/' . time() . '/'));
+        $license = file_get_contents_curl(str_replace(' ', '%20', 'http://gateway.sendy.co/gateway/mail.w3x.network/' . $_SESSION['license'] . '/' . ipaddress() . '/' . str_replace('/', '|s|', APP_PATH) . '/' . CURRENT_VERSION . '/' . time() . '/'));
         if ($license == 'blocked') //Firewall blocked outgoing connections, license cannot be verified
         {
             show_error(_('Outgoing connections blocked'), '<p>' . _('Your server has a firewall blocking outgoing connections. Please refer to this <a href="https://sendy.co/troubleshooting#unlicensed-domain-error" target="_blank">troubleshooting tip</a>.') . '</p>', false);
