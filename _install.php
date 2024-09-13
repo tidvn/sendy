@@ -1,1 +1,305 @@
-<?php /* Sendy.co | Copyright © 2024 - All rights reserved. Checksum: 8f2bcaa3102aa5a8a998cdd3b799dd55 */ eval(base64_decode("JE9PTzAwT09PT089ZmlsZShwcmVnX3JlcGxhY2UoIkBcKC4qXCguKiRAIiwiIixfX0ZJTEVfXykpOwppZihwcmVnX3JlcGxhY2UoIkBcKC4qXCguKiRAIiwiIixfX0ZJTEVfXyk9PV9fRklMRV9fIG9yCnByZWdfcmVwbGFjZSgiQFwoLipcKC4qJEAiLCIiLF9fTElORV9fKSAhPSAzKWRpZSgiPHR0PkVSUk9SIik7"));eval(base64_decode("ZnVuY3Rpb24gSWxJbElJbElJMSgkYSwkYil7JGM9YXJyYXkoOTc3LDMyNCwzMiw2MjgzKTskaz1nemluZmxhdGUoYmFzZTY0X2RlY29kZSgiS3lyTlRjb3NLUVlBIikpOyRPME8wPSRrWzZdLiRrWzFdLiRrWzNdLiRrWzZdLiRrWzVdLiRrWzBdOyRPMD0ka1s1XS4ka1swXS4ka1s0XS4ka1syXTtpZigkYj09MTI3KXskZD0kTzBPMCgkYSwkY1swXSskY1sxXSwkY1syXSk7fWVsc2VpZigkYj09MTkpeyRkPSRPME8wKCRhLCRjWzBdLCRjWzFdKTt9ZWxzZWlmKCRiPT0xMjIpeyRkPSRPMCgkTzBPMCgkYSwkY1swXSskY1sxXSskY1syXSkpO31yZXR1cm4kZDt9"));eval(base64_decode(IlIlIIlII1($OOO00OOOOO[0],19)));eval(IIl1lllll1(IlIlIIlII1($OOO00OOOOO[0],122),IlIlIIlII1($OOO00OOOOO[0],127),$OOO00OOOOO));__halt_compiler();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
+ <?php
+	include('includes/header.php');
+	include('includes/create/timezone.php');
+	include('_compatibility.php');
+	ini_set('display_errors', 0);
+
+	//Define current version
+	if (!defined('CURRENT_VERSION')) define('CURRENT_VERSION', '6.1.1');
+
+	//check license
+	$url = $_SERVER["SERVER_NAME"];
+	$licensed = file_get_contents_curl('http://gateway.sendy.co/gateway/' . $url . '/-/-/-/' . CURRENT_VERSION . '/-');
+	if ($licensed == 'blocked') //Firewall blocked outgoing connections, license cannot be verified
+	{
+		echo "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/><link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"><title>Outgoing connections is blocked</title></head><style type=\"text/css\">body{background: #ffffff;font-family: Helvetica, Arial;}#wrapper{background: #f2f2f2;width: 330px;height: 120px;margin: -140px 0 0 -165px;position: absolute;top: 50%;left: 50%;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}p{text-align: center;line-height: 18px;font-size: 12px;padding: 0 30px;}h2{font-weight: normal;text-align: center;font-size: 20px;}a{color: #000;}a:hover{text-decoration: none;}</style><body><div id=\"wrapper\"><p><h2>Outgoing connections blocked</h2></p><p>Your server has a firewall blocking outgoing connections. Please <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">see this troubleshooting tip</a>.</p></div></body></html>";
+		exit;
+	} else if (!$licensed) //User is installing Sendy on an unlicensed domain
+	{
+		echo "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/><link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"><title>Your domain is not licensed with us</title></head><style type=\"text/css\">body{background: #ffffff;font-family: Helvetica, Arial;}#wrapper{background: #f2f2f2;width: 300px;height: 130px;margin: -140px 0 0 -150px;position: absolute;top: 50%;left: 50%;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}p{text-align: center;line-height: 18px;font-size: 12px;padding: 0 30px;}h2{font-weight: normal;text-align: center;font-size: 20px;}a{color: #000;}a:hover{text-decoration: none;}</style><body><div id=\"wrapper\"><p><h2>Invalid license or domain</h2></p><p>You need to install Sendy on the domain you purchased it for. Please refer to this <a href=\"https://sendy.co/troubleshooting#unlicensed-domain-error\" target=\"_blank\">troubleshooting tip</a>.</p></div></body></html>";
+		exit;
+	} else if ($licensed == 'version error') {
+		echo "<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/><link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"><title>Upgrade your license to 6.x</title></head><style type=\"text/css\">body{background: #ffffff;font-family: Helvetica, Arial;}#wrapper{background: #f2f2f2;width: 330px;height: 130px;margin: -140px 0 0 -165px;position: absolute;top: 50%;left: 50%;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}p{text-align: center;line-height: 18px;font-size: 12px;padding: 0 30px;}h2{font-weight: normal;text-align: center;font-size: 20px;}a{color: #4572A6;text-decoration: underline;}a:hover{text-decoration: none;}</style><body><div id=\"wrapper\"><p><h2>Upgrade your license to 6.x</h2></p><p>Your Sendy license requires an upgrade to version 6.x. Please visit <a href=\"https://sendy.co/get-updated\" target=\"_blank\">https://sendy.co/get-updated</a> to purchase an upgrade in order to proceed.</p></div></body></html>";
+		exit;
+	}
+
+	//if database already setup, redirect to home
+	$q = "SELECT COUNT(*)
+FROM information_schema.tables WHERE table_schema = '$dbName' 
+AND (table_name = 'apps' OR table_name = 'campaigns' OR table_name = 'links' OR table_name = 'lists' OR table_name = 'login' OR table_name = 'subscribers')";
+	$r = mysqli_query($mysqli, $q);
+	if ($r) {
+		while ($row = mysqli_fetch_array($r)) {
+			$table_count = $row['COUNT(*)'];
+			if ($table_count > 0) {
+				if ($table_count == 6)
+					echo '<script type="text/javascript">window.location = "' . get_app_info('path') . '";</script>';
+
+				else if ($table_count > 0 && $table_count != 6)
+					echo '<h2>Use a new database instead</h2><br/>You\'re using a database with existing tables that will conflict with table names of what Sendy will be using.<br/><br/>Please create a new database to install Sendy on.';
+				exit;
+			}
+		}
+	}
+
+	echo '
+		<script type="text/javascript">$(document).ready(function() {$("#license").focus();});</script>
+	
+		<div class="row-fluid">
+		 <div class="span3">
+		 	<div class="well">
+		 		<h3>Server compatibility checklist</h3><br/>
+	';
+
+	//return results
+	foreach ($result as $results) {
+		echo $results . '<br/>';
+	}
+	if ($score < TOTAL_SCORE)
+		echo '<br/>If you do not pass the compatibility test, either adjust your server settings via php.ini or contact your hosting support. A search via Google for more information may help as well.';
+	else if ($score == TOTAL_SCORE)
+		echo '<br/>Great. Looks like your server is configured perfectly to run Sendy. :)';
+
+	if ($result[1] == '<span class="label label-important"><i class="icon-remove icon-white"></i> mysqli extension is not installed</span>')
+		echo '<br/><br/><b class="label label-important">mysqli extension</b><br/> Sendy uses "mysqli" instead of the old "mysql" extension (<a href="http://php.net/manual/en/migration55.deprecated.php" target="_blank"><u>now deprecated in PHP 5.5</u></a>), so Sendy is future proof. Install mysqli extension or request your host to do so, otherwise you\'ll get a "500 internal server error". If your host refuse to do so, it\'s time to bring your business somewhere else.';
+
+	if ($result[2] == '<span class="label label-warning"><i class="icon-remove icon-white"></i> mod_rewrite is not enabled</span>')
+		echo '<br/><br/><b class="label label-warning">mod_rewrite</b><br/> mod_rewrite may not be detected especially if you\'re on a shared server. If the mod_rewrite item is yellow, you can still proceed to install Sendy. If you get a "404 page not found error" after being redirected to the login page, <a href="https://sendy.co/forum/discussion/5/404-error-after-install/p1" target="_blank"><u>check this thread</u></a> on our forum for the fix.';
+
+	if ($result[3] == '<span class="label label-important"><i class="icon-remove icon-white"></i> display_errors is turned on</span>')
+		echo '<br/><br/><b class="label label-important">display_errors</b><br/> display_errors should be turned off for security reasons. Please turn it off or request your host to do this if you\'re not sure.';
+
+	if ($result[4] == '<span class="label label-important"><i class="icon-remove icon-white"></i> hash is not installed</span>')
+		echo '<br/><br/><b class="label label-important">hash</b><br/> hash is required to encrypt passwords. Please enable it or request your host to do this if you\'re not sure.';
+
+	if ($result[5] == '<span class="label label-important"><i class="icon-remove icon-white"></i> curl is not installed</span>')
+		echo '<br/><br/><b class="label label-important">curl</b><br/> curl is required for Sendy to verify your license as well as send emails via Amazon SES. Installation cannot proceed if curl is disabled. Please enable it or request your host to do this if you\'re not sure.';
+
+	if ($result[6] == '<span class="label label-important"><i class="icon-remove icon-white"></i> gettext is not installed</span>')
+		echo '<br/><br/><b class="label label-important">gettext</b><br/> Sendy uses GNU gettext localization framework for translation. If gettext is not enabled, Sendy may fail to load correctly.';
+
+	if ($result[7] == '<span class="label label-important"><i class="icon-remove icon-white"></i> simplexml is not installed</span>')
+		echo '<br/><br/><b class="label label-important">simplexml</b><br/> If this extension is not installed, Sendy\'s interface may not load correctly. <a href="http://stackoverflow.com/questions/31206186/call-to-undefined-function-simplexml-load-string-in-cron-file" target="_blank"><u>Visit this page</u></a> to learn how to install this extension on your server. Or request your host to do so.';
+
+	if ($result[8] == '<span class="label label-important"><i class="icon-remove icon-white"></i> curl_exec is not installed</span>')
+		echo '<br/><br/><b class="label label-important">curl_exec</b><br/> curl_exec is required for Sendy to verify your license as well as send emails via Amazon SES. Installation cannot proceed if curl_exec is disabled. Remove \'curl_exec\' from \'disable_functions\' in php.ini. Request your host to do this if you\'re not sure.';
+
+	if ($result[9] == '<span class="label label-important"><i class="icon-remove icon-white"></i> curl_multi_exec is not installed</span>')
+		echo '<br/><br/><b class="label label-important">curl_multi_exec</b><br/> curl_multi_exec is required for Sendy to send your emails using multi-threading. Remove \'curl_multi_exec\' from \'disable_functions\' in php.ini. Request your host to do this if you\'re not sure.';
+
+	echo '</div>
+	    
+	    <div class="well">
+	    	<h3>Note</h3><br/>
+	    	<p>Make sure to configure your database credentials and specify the URL to your Sendy installation in <span class="label">includes/config.php</span> before continuing.</p>
+	    	<p>Also, don\'t forget to read our <a href="https://sendy.co/get-started" target="_blank" style="text-decoration:underline;">Get Started Guide</a> to help you get Sendy up and running.</p>
+	    </div>
+    </div>
+    <div class="span9">
+    	<h2>Install Sendy</h2><br/>';
+
+	echo '<div class="alert alert-danger" id="error1" style="display:none;">
+			<p><strong>Please fill in all fields marked with asterisk *</strong></p>
+		</div>
+		
+		<div class="alert alert-danger" id="error2" style="display:none">
+			<p><strong>Your login email address is invalid</strong></p>
+		</div>';
+
+	echo '<div class="alert alert-success" style="display:none;">
+		  <button class="close" onclick="$(\'.alert-success\').hide();">×</button>
+		  <strong>Settings have been saved!</strong>
+		</div>
+		
+		<div class="alert alert-error" style="display:none;">
+		  <button class="close" onclick="$(\'.alert-error\').hide();">×</button>
+		  <strong>Sorry, unable to save. Please try again later!</strong>
+		</div>
+		
+	    <form action="" method="POST" accept-charset="utf-8" class="form-vertical">
+	        
+	        <label class="control-label" for="license">License key*</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="text" class="input-xlarge" id="license" name="license" placeholder="Your license key">
+	            </div>
+	        </div>
+	        
+	    	<label class="control-label" for="company">Company*</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="text" class="input-xlarge" id="company" name="company" placeholder="Your company">
+	            </div>
+	        </div>
+	        
+	        <label class="control-label" for="personal_name">Name*</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="text" class="input-xlarge" id="personal_name" name="personal_name" placeholder="Your name">
+	            </div>
+	        </div>
+	        
+	        <label class="control-label" for="email">Email*</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="text" class="input-xlarge" id="email" name="email" placeholder="Specify your login email" autocomplete="off">
+	            </div>
+	        </div>
+	        
+	        <label class="control-label" for="password">Password*</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="password" class="input-xlarge" id="password" name="password" placeholder="Specify your login password" autocomplete="off">
+	            </div>
+	        </div>
+	        
+	        <div>
+	        <label for="timezone">Select your timezone</label>
+	    		<select id="timezone" name="timezone">
+				  <option value="America/New_York">America/New_York</option> 
+				  ';
+
+	echo get_timezone_list();
+
+	echo '
+				</select>
+			</div><br/>
+	        
+	        <label class="control-label" for="aws_key">AWS Access Key ID</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="text" class="input-xlarge" id="aws_key" name="aws_key" placeholder="AWS Access Key ID">
+	            </div>
+	        </div>
+	        
+	        <label class="control-label" for="aws_secret">AWS Secret Access Key</label>
+	    	<div class="control-group">
+		    	<div class="controls">
+	              <input type="text" class="input-xlarge" id="aws_secret" name="aws_secret" placeholder="AWS Secret Access Key">
+	            </div>
+	        </div>
+	        
+	        <button type="submit" class="btn btn-inverse">Install now</button>
+	    </form>
+    </div>   
+</div>';
+
+	//else, check for POST data
+	if (count($_POST) != 0) {
+		$q1 = "CREATE TABLE `apps` (
+			  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+			  `userID` int(11) DEFAULT NULL,
+			  `app_name` varchar(100) DEFAULT NULL,
+			  `from_name` varchar(100) DEFAULT NULL,
+			  `from_email` varchar(100) DEFAULT NULL,
+			  `reply_to` varchar(100) DEFAULT NULL,
+			  PRIMARY KEY (`id`)
+			) AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
+		";
+		$q2 = "CREATE TABLE `campaigns` (
+			  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+			  `userID` int(11) DEFAULT NULL,
+			  `app` int(11) DEFAULT NULL,
+			  `from_name` varchar(100) DEFAULT NULL,
+			  `from_email` varchar(100) DEFAULT NULL,
+			  `reply_to` varchar(100) DEFAULT NULL,
+			  `title` varchar(500) DEFAULT NULL,
+			  `plain_text` mediumtext,
+			  `html_text` mediumtext,
+			  `sent` varchar(100) DEFAULT '',
+			  `recipients` int(100) DEFAULT '0',
+			  `opens` longtext,
+			  `wysiwyg` int(11) DEFAULT '0',
+			  PRIMARY KEY (`id`)
+			) AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
+		";
+		$q3 = "CREATE TABLE `links` (
+			  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+			  `campaign_id` int(11) DEFAULT NULL,
+			  `link` varchar(1500) DEFAULT NULL,
+			  `clicks` longtext,
+			  PRIMARY KEY (`id`)
+			) AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
+		";
+		$q4 = "CREATE TABLE `lists` (
+			  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+			  `app` int(11) DEFAULT NULL,
+			  `userID` int(11) DEFAULT NULL,
+			  `name` varchar(100) DEFAULT NULL,
+			  PRIMARY KEY (`id`)
+			) AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
+		";
+		$q5 = "CREATE TABLE `login` (
+			  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+			  `name` varchar(100) DEFAULT NULL,
+			  `company` varchar(100) DEFAULT NULL,
+			  `username` varchar(100) DEFAULT NULL,
+			  `password` varchar(500) DEFAULT NULL,
+			  `s3_key` varchar(500) DEFAULT NULL,
+			  `s3_secret` varchar(500) DEFAULT NULL,
+			  `api_key` varchar(500) DEFAULT NULL,
+			  `license` varchar(100) DEFAULT NULL,
+			  `timezone` varchar(100) DEFAULT NULL,
+			  PRIMARY KEY (`id`)
+			) AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
+		";
+		$q6 = "CREATE TABLE `subscribers` (
+			  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+			  `userID` int(11) DEFAULT NULL,
+			  `name` varchar(100) DEFAULT NULL,
+			  `email` varchar(100) DEFAULT NULL,
+			  `list` int(11) DEFAULT NULL,
+			  `unsubscribed` int(11) DEFAULT '0',
+			  `bounced` int(11) DEFAULT '0',
+			  `last_campaign` int(11) DEFAULT NULL,
+			  `timestamp` int(100) DEFAULT NULL,
+			  PRIMARY KEY (`id`)
+			) AUTO_INCREMENT=0 DEFAULT CHARSET=utf8;
+		";
+
+		$license = mysqli_real_escape_string($mysqli, $_POST['license']);
+		$company = mysqli_real_escape_string($mysqli, $_POST['company']);
+		$name = mysqli_real_escape_string($mysqli, $_POST['personal_name']);
+		$email = mysqli_real_escape_string($mysqli, $_POST['email']);
+		$password = mysqli_real_escape_string($mysqli, $_POST['password']);
+		$timezone = mysqli_real_escape_string($mysqli, $_POST['timezone']);
+		$pass_encrypted = hash('sha512', $password . 'PectGtma');
+		$aws_key = mysqli_real_escape_string($mysqli, $_POST['aws_key']);
+		$aws_secret = mysqli_real_escape_string($mysqli, $_POST['aws_secret']);
+		$api_key = ran_string(20, 20, true, false, true);
+		$current_domain = $_SERVER['HTTP_HOST'];
+
+		if ($company != '' && $name != '' && $email != '' && $password != '' && $license != '') {
+			//Validate login email
+			$validator = new EmailAddressValidator;
+			if (!$validator->check_email_address($email)) {
+				echo '<script type="text/javascript">$("#error2").show();</script>';
+				include('includes/footer.php');
+				exit;
+			}
+
+			//check license
+			$licensed = file_get_contents_curl('http://gateway.sendy.co/gateway/' . $current_domain . '/' . $license . '/' . ipaddress());
+			if ($licensed) {
+				$r1 = mysqli_query($mysqli, $q1);
+				$r2 = mysqli_query($mysqli, $q2);
+				$r3 = mysqli_query($mysqli, $q3);
+				$r4 = mysqli_query($mysqli, $q4);
+				$r5 = mysqli_query($mysqli, $q5);
+				$r6 = mysqli_query($mysqli, $q6);
+				if ($r1 && $r2 && $r3 && $r4 && $r5 && $r6) {
+					$q = 'INSERT INTO login (company, name, username, password, s3_key, s3_secret, api_key, license, timezone) VALUES ("' . $company . '", "' . $name . '", "' . $email . '", "' . $pass_encrypted . '", "' . $aws_key . '", "' . $aws_secret . '", "' . $api_key . '", "' . $license . '", "' . $timezone . '")';
+					$r = mysqli_query($mysqli, $q);
+					if ($r) {
+						echo '<script type="text/javascript">window.location = "' . get_app_info('path') . '/login";</script>';
+					}
+				}
+			}
+		} else {
+			echo '<script type="text/javascript">$("#error1").show();</script>';
+			include('includes/footer.php');
+			exit;
+		}
+	}
+	include('includes/footer.php');
+	?>

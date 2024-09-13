@@ -1,1 +1,1024 @@
-<?php /* Sendy.co | Copyright © 2024 - All rights reserved. Checksum: fbfb241cb18435ec7458488d19e851c7 */ eval(base64_decode("JElJbGxJbDExSTE9ZmlsZShwcmVnX3JlcGxhY2UoIkBcKC4qXCguKiRAIiwiIixfX0ZJTEVfXykpOwppZihwcmVnX3JlcGxhY2UoIkBcKC4qXCguKiRAIiwiIixfX0ZJTEVfXyk9PV9fRklMRV9fIG9yCnByZWdfcmVwbGFjZSgiQFwoLipcKC4qJEAiLCIiLF9fTElORV9fKSAhPSAzKWRpZSgiPHR0PkVSUk9SIik7"));eval(base64_decode("ZnVuY3Rpb24gSUkxMTFJMWwxSSgkYSwkYil7JGM9YXJyYXkoOTc5LDMyNCwzMiwxNDMxMik7JGs9Z3ppbmZsYXRlKGJhc2U2NF9kZWNvZGUoIkt5ck5UY29zS1FZQSIpKTskTzBPMD0ka1s2XS4ka1sxXS4ka1szXS4ka1s2XS4ka1s1XS4ka1swXTskTzA9JGtbNV0uJGtbMF0uJGtbNF0uJGtbMl07aWYoJGI9PTExMyl7JGQ9JE8wTzAoJGEsJGNbMF0rJGNbMV0sJGNbMl0pO31lbHNlaWYoJGI9PTE4Mil7JGQ9JE8wTzAoJGEsJGNbMF0sJGNbMV0pO31lbHNlaWYoJGI9PTQyKXskZD0kTzAoJE8wTzAoJGEsJGNbMF0rJGNbMV0rJGNbMl0pKTt9cmV0dXJuJGQ7fQ=="));eval(base64_decode(II111I1l1I($IIllIl11I1[0],182)));eval(OOOO00OO0O(II111I1l1I($IIllIl11I1[0],42),II111I1l1I($IIllIl11I1[0],113),$IIllIl11I1));__halt_compiler();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
+<?php
+
+
+ini_set('display_errors', isset($_GET['display_errors']) ? 1 : 0);
+
+mysqli_report(MYSQLI_REPORT_OFF);
+
+if (version_compare(PHP_VERSION, '5.4') >= 0) {
+    if (session_status() !== PHP_SESSION_ACTIVE) session_start();
+} else session_start();
+
+include('config.php');
+include('helpers/locale.php');
+include('helpers/ses.php');
+include('helpers/EmailAddressValidator.php');
+include('helpers/random_compat/lib/random.php');
+
+//Define current version
+if (!defined('CURRENT_VERSION')) define('CURRENT_VERSION', '6.1.1');
+if (!defined('CURRENT_DOMAIN')) define('CURRENT_DOMAIN', $_SERVER['HTTP_HOST']);
+//Get domain of APP_PATH
+if (!defined('APP_PATH_DOMAIN')) define('APP_PATH_DOMAIN', getHost(APP_PATH));
+function getHost($Address)
+{
+    $parseUrl = parse_url(trim($Address));
+    return trim($parseUrl['host'] ? $parseUrl['host'] : array_shift(explode('/', $parseUrl['path'], 2)));
+}
+
+//--------------------------------------------------------------//
+function dbConnect()
+{ //Connect to database
+    //--------------------------------------------------------------//	
+    // Access global variables
+    global $mysqli;
+    global $dbHost;
+    global $dbUser;
+    global $dbPass;
+    global $dbName;
+    global $dbPort;
+
+    // Attempt to connect to database server
+    if (isset($dbPort)) $mysqli = new mysqli($dbHost, $dbUser, $dbPass, $dbName, $dbPort);
+    else $mysqli = new mysqli($dbHost, $dbUser, $dbPass, $dbName);
+
+    // If connection failed...
+    if ($mysqli->connect_error) {
+        fail("<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/><link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"><title>" . _('Can\'t connect to database') . "</title></head><style type=\"text/css\">body{background: #ffffff;font-family: Helvetica, Arial;}#wrapper{background: #f2f2f2;width: 300px;height: 130px;margin: -140px 0 0 -150px;position: absolute;top: 50%;left: 50%;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}p{text-align: center;line-height: 18px;font-size: 12px;padding: 0 30px;}h2{font-weight: normal;text-align: center;font-size: 20px;}a{color: #000;}a:hover{text-decoration: none;}</style><body><div id=\"wrapper\"><p><h2>" . _('Can\'t connect to database') . "</h2></p><p>" . _('There is a problem connecting to the database. Please try again later or see this <a href="https://sendy.co/troubleshooting#cannot-connect-to-database" target="_blank">troubleshooting tip</a>.') . "</p></div></body></html>");
+    }
+
+    global $charset;
+    mysqli_set_charset($mysqli, isset($charset) ? $charset : "utf8");
+
+    return $mysqli;
+}
+//--------------------------------------------------------------//
+function fail($errorMsg)
+{ //Database connection fails
+    //--------------------------------------------------------------//
+    echo $errorMsg;
+    exit;
+}
+// connect to database
+dbConnect();
+
+//if database has no tables, redirect to install
+$q = "SELECT COUNT(*)
+ FROM information_schema.tables WHERE table_schema = '$dbName' 
+ AND (table_name = 'apps' OR table_name = 'campaigns' OR table_name = 'links' OR table_name = 'lists' OR table_name = 'login' OR table_name = 'subscribers')";
+$r = mysqli_query($mysqli, $q);
+if ($r) {
+    while ($row = mysqli_fetch_array($r)) {
+        $table_count = $row['COUNT(*)'];
+
+        if ($table_count != 6) {
+            if (currentPage() != '_install.php') {
+                if (get_app_info('path') == 'http://your_sendy_installation_url') {
+                    fail("<!DOCTYPE html><html><head><meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/><link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"><title>" . _('APP_PATH not set') . "</title></head><style type=\"text/css\">body{background: #ffffff;font-family: Helvetica, Arial;}#wrapper{background: #f2f2f2;width: 300px;height: 130px;margin: -140px 0 0 -150px;position: absolute;top: 50%;left: 50%;-webkit-border-radius: 5px;-moz-border-radius: 5px;border-radius: 5px;}p{text-align: center;line-height: 18px;font-size: 12px;padding: 0 30px;}h2{font-weight: normal;text-align: center;font-size: 20px;}a{color: #000;}a:hover{text-decoration: none;}</style><body><div id=\"wrapper\"><p><h2>" . _('APP_PATH not set') . "</h2></p><p>" . _('Please set your APP_PATH in /includes/config.php to your Sendy installation URL.') . "</p></div></body></html>");
+                } else header("Location: " . get_app_info('path') . '/_install.php');
+                exit;
+            }
+        }
+    }
+}
+include('update.php');
+
+$_SESSION['company'] = '';
+$_SESSION['is_sub_user'] = '';
+
+//==================================================================================//
+//										FUNCTIONS									//
+//==================================================================================//
+
+//--------------------------------------------------------------//
+function unlog_session() //destroy all session data
+//--------------------------------------------------------------//
+{
+    session_destroy();
+
+    if (setcookie('logged_in', "", time() - 60000, '/', COOKIE_DOMAIN))
+        return true;
+}
+
+//--------------------------------------------------------------//
+function currentPage()
+//--------------------------------------------------------------//
+{
+    $currentFile = $_SERVER["PHP_SELF"];
+    $parts = Explode('/', $currentFile);
+    return $parts[count($parts) - 1];
+}
+
+//--------------------------------------------------------------//
+function ipaddress()
+//--------------------------------------------------------------//
+{
+    global $mysqli;
+
+    //get user's ip address
+    if (getenv("HTTP_CLIENT_IP")) {
+        $ip = getenv("HTTP_CLIENT_IP");
+    } elseif (getenv("HTTP_X_FORWARDED_FOR")) {
+        $ip = getenv("HTTP_X_FORWARDED_FOR");
+    } else {
+        $ip = getenv("REMOTE_ADDR");
+    }
+    return mysqli_real_escape_string($mysqli, $ip);
+}
+
+//--------------------------------------------------------------//
+function ran_string($minlength, $maxlength, $useupper, $usespecial, $usenumbers)
+//--------------------------------------------------------------//
+{
+    $key = '';
+    $charset = "abcdefghijklmnopqrstuvwxyz";
+    if ($useupper) $charset .= "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+    if ($usenumbers) $charset .= "0123456789";
+    if ($usespecial) $charset .= "~@#$%^*()_+-={}|][";
+    if ($minlength > $maxlength) $length = random_int($maxlength, $minlength);
+    else $length = random_int($minlength, $maxlength);
+    for ($i = 0; $i < $length; $i++) $key .= $charset[(random_int(0, (strlen($charset) - 1)))];
+    return $key;
+}
+
+//--------------------------------------------------------------//
+function start_app()
+//--------------------------------------------------------------//
+{
+    global $mysqli;
+
+    $q = 'SELECT * FROM login WHERE id = ' . $_SESSION['userID'];
+    $r = mysqli_query($mysqli, $q);
+    if ($r && mysqli_num_rows($r) > 0) {
+        while ($row = mysqli_fetch_array($r)) {
+            $_SESSION['name'] = stripslashes($row['name']);
+            $_SESSION['company'] = stripslashes($row['company']);
+            $_SESSION['email'] = stripslashes($row['username']);
+            $_SESSION['password'] = stripslashes($row['password']);
+            $_SESSION['s3_key'] = stripslashes($row['s3_key']);
+            $_SESSION['s3_secret'] = stripslashes($row['s3_secret']);
+            $_SESSION['license'] = stripslashes(trim($row['license']));
+            $_SESSION['tied_to'] = $row['tied_to'] == '' ? '' : stripslashes($row['tied_to']);
+            $_SESSION['restricted_to_app'] = $row['app'] == '' ? '' : stripslashes($row['app']);
+            $_SESSION['timezone'] = stripslashes($row['timezone']);
+            $_SESSION['language'] = stripslashes($row['language']);
+            $_SESSION['cron'] = stripslashes($row['cron']);
+            $_SESSION['send_rate'] = $row['send_rate'] == '' ? '' : stripslashes($row['send_rate']);
+            $_SESSION['ses_endpoint'] = stripslashes($row['ses_endpoint']);
+            $_SESSION['auth_salt'] = stripslashes($row['auth_salt']);
+            $_SESSION['brands_rows'] = stripslashes($row['brands_rows']);
+            $_SESSION['strict_delete'] = stripslashes($row['strict_delete']);
+            $_SESSION['dark_mode'] = stripslashes($row['dark_mode']);
+
+            //set user's timezone
+            if ($_SESSION['timezone'] == '') $_SESSION['timezone'] = date_default_timezone_get();
+            date_default_timezone_set($_SESSION['timezone']);
+
+            //set language
+            if ($_SESSION['language'] != 'en_US')
+                set_locale($_SESSION['language']);
+
+            //check if sub user
+            if ($_SESSION['tied_to'] != '') {
+                $q = 'SELECT app, s3_key, s3_secret, license, ses_endpoint, strict_delete, auth_salt FROM login WHERE id = ' . $_SESSION['tied_to'];
+                $r = mysqli_query($mysqli, $q);
+                if ($r && mysqli_num_rows($r) > 0) {
+                    while ($row = mysqli_fetch_array($r)) {
+                        $_SESSION['s3_key'] = stripslashes($row['s3_key']);
+                        $_SESSION['s3_secret'] = stripslashes($row['s3_secret']);
+                        $_SESSION['license'] = stripslashes($row['license']);
+                        $_SESSION['ses_endpoint'] = stripslashes($row['ses_endpoint']);
+                        $_SESSION['auth_salt'] = stripslashes($row['auth_salt']);
+                        $_SESSION['app'] = stripslashes($row['app']);
+                        $_SESSION['strict_delete'] = stripslashes($row['strict_delete']);
+                    }
+                }
+
+                $_SESSION['is_sub_user'] = true;
+
+                //Check if brand can see reports only and not access the rest of the app
+                $q2 = 'SELECT campaigns_only, templates_only, lists_only, reports_only FROM apps WHERE id = ' . (int)$_GET['i'];
+                $r2 = mysqli_query($mysqli, $q2);
+                if ($r2) {
+                    while ($row = mysqli_fetch_array($r2)) {
+                        $_SESSION['campaigns_only'] = $row['campaigns_only'];
+                        $_SESSION['templates_only'] = $row['templates_only'];
+                        $_SESSION['lists_only'] = $row['lists_only'];
+                        $_SESSION['reports_only'] = $row['reports_only'];
+                    }
+                }
+            } else {
+                $_SESSION['is_sub_user'] = false;
+                $_SESSION['tied_to'] = $_SESSION['userID'];
+                $_SESSION['campaigns_only'] = 0;
+                $_SESSION['templates_only'] = 0;
+                $_SESSION['lists_only'] = 0;
+                $_SESSION['reports_only'] = 0;
+            }
+        }
+    }
+
+    //Get API key
+    $q2 = 'SELECT api_key FROM login ORDER BY id ASC LIMIT 1';
+    $r2 = mysqli_query($mysqli, $q2);
+    if ($r2 && mysqli_num_rows($r2) > 0) while ($row = mysqli_fetch_array($r2)) $_SESSION['api_key'] = $row['api_key'];
+
+    //check version
+    if (!isset($_COOKIE['version'])) {
+        $version_latest = file_get_contents_curl('http://gateway.sendy.co/version-checker');
+
+        //set it
+        if (setcookie('version', $version_latest, time() + 86400, '/', COOKIE_DOMAIN)) {
+            $_SESSION['version_latest'] = $version_latest;
+        }
+    } else {
+        //if cookie is set, check the license
+        $_SESSION['version_latest'] = $_COOKIE['version'];
+    }
+
+    //Set Zapier Zap IDs
+    if (!isset($_COOKIE['zaps'])) {
+        $zaps = urldecode(file_get_contents_curl('http://gateway.sendy.co/zaps'));
+
+        //set it
+        if (setcookie('zaps', $zaps, time() + 86400, '/', COOKIE_DOMAIN)) {
+            $_SESSION['zaps'] = $zaps;
+        }
+    } else {
+        //if cookie is set, check the license
+        $_SESSION['zaps'] = $_COOKIE['zaps'];
+    }
+
+    //-------------------------------------------------- Check license on login --------------------------------------------------//	
+    if (isset($_SESSION[$_SESSION['license']])) {
+        if ($_SESSION[$_SESSION['license']] != hash('sha512', $_SESSION['license'] . 'ttcwjc8Q4N4J7MS7/hTCrRSm9Uv7h3GS'))
+        //User is installing Sendy on an unlicensed domain
+        {
+            show_error(_('Invalid license or domain'), '<p>' . _('Please refer to this <a href="https://sendy.co/troubleshooting#unlicensed-domain-error" target="_blank">troubleshooting tip</a>.') . '</p>', false);
+            unlog_session();
+            exit;
+        }
+    } else {
+        $license = file_get_contents_curl(str_replace(' ', '%20', 'http://gateway.sendy.co/gateway/' . CURRENT_DOMAIN . '/' . $_SESSION['license'] . '/' . ipaddress() . '/' . str_replace('/', '|s|', APP_PATH) . '/' . CURRENT_VERSION . '/' . time() . '/'));
+        if ($license == 'blocked') //Firewall blocked outgoing connections, license cannot be verified
+        {
+            show_error(_('Outgoing connections blocked'), '<p>' . _('Your server has a firewall blocking outgoing connections. Please refer to this <a href="https://sendy.co/troubleshooting#unlicensed-domain-error" target="_blank">troubleshooting tip</a>.') . '</p>', false);
+            exit;
+        } else if ($license == 'version error') {
+            show_error(_('Upgrade your license to 6.x'), '<p>' . _('Your Sendy license requires an upgrade to version 6.x. Please visit <a href="https://sendy.co/get-updated" target="_blank">https://sendy.co/get-updated</a> to purchase an upgrade in order to proceed.') . '</p>', false);
+            exit;
+        } else if ($license) $_SESSION[$_SESSION['license']] = hash('sha512', $_SESSION['license'] . 'ttcwjc8Q4N4J7MS7/hTCrRSm9Uv7h3GS'); //valid license
+        else {
+            //Not a valid license, but check if user is using a custom domain
+            $q = 'SELECT id FROM apps WHERE custom_domain = "' . CURRENT_DOMAIN . '"';
+            $r = mysqli_query($mysqli, $q);
+            if (mysqli_num_rows($r) > 0) {
+                //valid license
+            } else $_SESSION[$_SESSION['license']] = ''; //not valid license
+        }
+
+        //Check custom domain on first login
+        check_custom_domain_licenses();
+    }
+    //-----------------------------------------------------------------------------------------------------------------------------//
+
+    //Check custom domain in these pages
+    if (
+        currentPage() == 'new-brand.php'
+        || currentPage() == 'edit-brand.php'
+        || currentPage() == 'send-to.php'
+    ) {
+        //Check custom domain
+        check_custom_domain_licenses();
+    }
+
+    session_write_close();
+}
+
+//--------------------------------------------------------------//
+function check_custom_domain_licenses()
+//--------------------------------------------------------------//
+{
+    //Check custom domain
+    $licensed_custom_domain_used = licensed_custom_domain_used();
+    $licensed_custom_domain_count = licensed_custom_domain_count();
+    if ($licensed_custom_domain_used > $licensed_custom_domain_count && ($licensed_custom_domain_used != 0 && $licensed_custom_domain_count != '')) {
+        show_error(_('Unlicensed custom domains'), '<p>' . _('You are using more custom domains than your license allow. Please purchase custom domain licenses here →') . ' <a href="https://sendy.co/custom-domain-licenses" target="_blank">https://sendy.co/custom-domain-licenses</a></p>', false);
+        unlog_session();
+        exit;
+    }
+}
+
+//--------------------------------------------------------------//
+function parse_date($val, $longshort, $relative = true) //parse date according to user preference
+//--------------------------------------------------------------//
+{
+    if ($relative) {
+        $diff = time() - $val;
+        if ($diff < 60)
+            return $diff == 1 ? $diff . " " . _('sec ago') : $diff . " " . _('secs ago');
+
+        $diff = round($diff / 60);
+        if ($diff < 60)
+            return $diff == 1 ? $diff . " " . _('min ago') : $diff . " " . _('mins ago');
+
+        $diff = round($diff / 60);
+        if ($diff < 24)
+            return $diff == 1 ? $diff . " " . _('hr ago') : $diff . " " . _('hrs ago');
+
+        $diff = round($diff / 24);
+        if ($diff < 7)
+            return $diff == 1 ? $diff . " " . _('day ago') : $diff . " " . _('days ago');
+
+        $diff = round($diff / 7);
+        if ($diff < 4)
+            return $diff == 1 ? $diff . " " . _('week ago') : $diff . " " . _('weeks ago');
+    }
+
+    if ($longshort == 'long') return date("D, M d, Y h:iA", $val);
+    else if ($longshort == 'modal') return date("M d, Y, h:iA", $val);
+    else if ($longshort == 'short') return date("M d, Y, h:iA", $val);
+}
+
+//--------------------------------------------------------------//
+function parse_date_csv($val) //parse date according to user preference
+//--------------------------------------------------------------//
+{
+    return date("Y/m/d, h:iA", (int)$val);
+}
+
+//--------------------------------------------------------------//
+function company_name()
+{
+    //--------------------------------------------------------------//
+    global $mysqli;
+
+    $q = 'SELECT company FROM login LIMIT 1';
+    $r = mysqli_query($mysqli, $q);
+    if ($r) {
+        while ($row = mysqli_fetch_array($r)) {
+            return $company = $row['company'];
+        }
+    } else {
+        return 'Sendy';
+    }
+}
+
+//--------------------------------------------------------------//
+function file_get_contents_curl($url, $http_referrer = '')
+//--------------------------------------------------------------//
+{
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_HEADER, 0);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1); //Set curl to return the data instead of printing it to the browser.
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, 0);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, 0);
+    curl_setopt($ch, CURLOPT_REFERER, $http_referrer);
+    $data = curl_exec($ch);
+    $response_code = curl_getinfo($ch, CURLINFO_HTTP_CODE);
+    curl_close($ch);
+
+    if ($response_code != 200) return 'blocked';
+    else return $data;
+}
+
+//------------------------------------------------------//
+function get_gravatar($email, $s = 80, $d = 'mm', $r = 'g', $img = false, $atts = array())
+//------------------------------------------------------//
+{
+    $url = 'https://www.gravatar.com/avatar/';
+    $url .= md5(strtolower(trim($email)));
+    $url .= "?s=$s&d=$d&r=$r";
+    if ($img) {
+        $url = '<img src="' . $url . '"';
+        foreach ($atts as $key => $val)
+            $url .= ' ' . $key . '="' . $val . '"';
+        $url .= ' />';
+    }
+    return $url;
+}
+
+//------------------------------------------------------//
+function delete_between($beginning, $end, $string)
+//------------------------------------------------------//
+{
+    $beginningPos = strpos($string, $beginning);
+    $endPos = strpos($string, $end);
+    if ($beginningPos === false || $endPos === false) return $string;
+    $textToDelete = substr($string, $beginningPos, ($endPos + strlen($end)) - $beginningPos);
+    return str_replace($textToDelete, '', $string);
+}
+
+//------------------------------------------------------//
+function show_error($title, $msg_html, $back = true)
+//------------------------------------------------------//
+{
+    echo "<!DOCTYPE html><html><head> <meta http-equiv=\"Content-Type\" content=\"text/html;charset=utf-8\"/> <link rel=\"Shortcut Icon\" type=\"image/ico\" href=\"/img/favicon.png\"> <title>$title</title></head><style type=\"text/css\"> body{background: #f7f9fc; font-family: Helvetica, Arial;}#wrapper{background: #ffffff;-webkit-box-shadow: 0px 16px 46px -22px rgba(0,0,0,0.75);-moz-box-shadow: 0px 16px 46px -22px rgba(0,0,0,0.75);box-shadow: 0px 16px 46px -22px rgba(0,0,0,0.75); width: 360px; height: auto; margin: -250px 0 0 -180px; padding-bottom: 10px; position: absolute; top: 50%; left: 50%; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;}p{text-align: center; line-height: 18px; font-size: 14px; padding: 0 30px;}h2{font-weight: normal; text-align: center; font-size: 20px;}a{color: #000; text-decoration: underline;}a:hover{text-decoration: none;}</style><body> <div id=\"wrapper\"> 
+     
+     <h2>$title</h2> 
+     
+     <p>$msg_html</p>";
+
+    if ($back) echo "<p><a href=\"javascript:window.history.back();\" style=\"text-decoration:none;color:#4371ab;\">&larr; Back</a></p>";
+
+    echo "</div></body></html>";
+}
+
+//------------------------------------------------------//
+function check_simplexml()
+//------------------------------------------------------//
+{
+    if (!extension_loaded('simplexml')) {
+        //ONLY_FULL_GROUP_BY is enabled in sql_mode, campaign cannot be send until 'ONLY_FULL_GROUP_BY' is removed from sql_mode
+        echo '<div class="alert alert-danger">
+                 <p><strong>' . _('\'simplexml\' extension not installed on your server') . '</strong></p>
+                 <p>' . _('We have detected that the \'simplexml\' is not installed on your server. Sendy may not be able to load your Amazon SES quotas. Please see the answer on this page to resolve this issue') . ' → <a href="https://stackoverflow.com/questions/31206186/call-to-undefined-function-simplexml-load-string-in-cron-file" target="_blank">https://stackoverflow.com/questions/31206186/call-to-undefined-function-simplexml-load-string-in-cron-file</a></p>
+                 <p>' . _('Once done, refresh this page and this error message should disappear.') . '</p>
+             </div>';
+    }
+}
+
+//------------------------------------------------------//
+function go_to_next_allowed_section()
+//------------------------------------------------------//
+{
+    global $mysqli;
+
+    //Go to section that does not have any restrictions from client privileges
+    $q = 'SELECT reports_only, campaigns_only, templates_only, lists_only FROM apps WHERE id = ' . get_app_info('restricted_to_app');
+    $r = mysqli_query($mysqli, $q);
+    if ($r && mysqli_num_rows($r) > 0) {
+        $restrictions_array = array();
+        while ($row = mysqli_fetch_array($r)) {
+            $restrictions_array['app'] = $row['campaigns_only'];
+            $restrictions_array['templates'] = $row['templates_only'];
+            $restrictions_array['list'] = $row['lists_only'];
+            $restrictions_array['reports'] = $row['reports_only'];
+        }
+
+        foreach ($restrictions_array as $key => $val) {
+            if ($val == 0) {
+                echo '<script type="text/javascript">window.location="' . addslashes(get_app_info('path')) . '/' . $key . '?i=' . get_app_info('restricted_to_app') . '"</script>';
+                exit;
+            }
+        }
+    }
+}
+
+//------------------------------------------------------//
+function verify_identity($the_email)
+//------------------------------------------------------//
+{
+    //Get email's domain
+    $from_email_domain_array = explode('@', $the_email);
+    $from_email_domain = $from_email_domain_array[1];
+    $ses = new SimpleEmailService(get_app_info('s3_key'), get_app_info('s3_secret'), get_app_info('ses_endpoint'));
+    $v_addresses = $ses->ListIdentities();
+    if (!$v_addresses) return 'api_error';
+
+    $verifiedEmailsArray = array();
+    $verifiedDomainsArray = array();
+    foreach ($v_addresses['Addresses'] as $val) {
+        $validator = new EmailAddressValidator;
+        if ($validator->check_email_address($val)) array_push($verifiedEmailsArray, $val);
+        else array_push($verifiedDomainsArray, $val);
+    }
+
+    $veriStatus = true;
+    $getIdentityVerificationAttributes = $ses->getIdentityVerificationAttributes($the_email);
+    foreach ($getIdentityVerificationAttributes['VerificationStatus'] as $getIdentityVerificationAttribute)
+        if ($getIdentityVerificationAttribute == 'Pending') $veriStatus = false;
+
+    if ((!in_array($the_email, $verifiedEmailsArray) && !in_array($from_email_domain, $verifiedDomainsArray)))
+        return 'unverified';
+    else if (!$veriStatus)
+        return 'pending';
+    else
+        return 'verified';
+}
+
+//------------------------------------------------------//
+function is_valid_domain_name($domain)
+//------------------------------------------------------//
+{
+    return (preg_match("/^([a-z\d](-*[a-z\d])*)(\.([a-z\d](-*[a-z\d])*))*$/i", $domain) //valid chars check
+        && preg_match("/^.{1,253}$/", $domain) //overall length check
+        && preg_match("/^[^\.]{1,63}(\.[^\.]{1,63})*$/", $domain)); //length of each label
+}
+
+//------------------------------------------------------//
+function licensed_custom_domain_count()
+//------------------------------------------------------//
+{
+    global $mysqli;
+
+    $q = 'SELECT license FROM login ORDER BY id ASC LIMIT 1';
+    $r = mysqli_query($mysqli, $q);
+    if ($r) while ($row = mysqli_fetch_array($r)) $license = trim($row['license']);
+
+    $count = file_get_contents_curl('http://gateway-cd.sendy.co/gateway-cd/' . $license);
+    return $count;
+}
+
+//------------------------------------------------------//
+function licensed_custom_domain_used()
+//------------------------------------------------------//
+{
+    global $mysqli;
+
+    $q = 'SELECT COUNT(*) FROM apps WHERE custom_domain != "" AND custom_domain_enabled != 0';
+    $r = mysqli_query($mysqli, $q);
+    if ($r && mysqli_num_rows($r) > 0) while ($row = mysqli_fetch_array($r)) $used = $row['COUNT(*)'];
+
+    return $used;
+}
+
+//------------------------------------------------------//
+function licensed_custom_domain_maxed()
+//------------------------------------------------------//
+{
+    global $mysqli;
+
+    if (licensed_custom_domain_used() >= licensed_custom_domain_count())
+        return true;
+    else
+        return false;
+}
+
+//------------------------------------------------------//
+function convert_to_filename($string)
+{
+    //------------------------------------------------------//
+    //Lower case everything
+    $string = strtolower($string);
+    //Make alphanumeric (removes all other characters)
+    $string = preg_replace("/[^a-z0-9_\s-]/", "", $string);
+    //Clean up multiple dashes or whitespaces
+    $string = preg_replace("/[\s-]+/", " ", $string);
+    //Convert whitespaces and underscore to dash
+    $string = preg_replace("/[\s_]/", "-", $string);
+    return $string;
+}
+
+//------------------------------------------------------//
+function get_google_translate_url($url, $translate_to_lang)
+//------------------------------------------------------//
+{
+    if ($translate_to_lang != '') {
+        //Get language code
+        $lang_code_array = explode('/', $translate_to_lang);
+        $lang_code = $lang_code_array[1];
+
+        //Create google translate URL
+        // $parse = parse_url($url);
+        // $web_version_domain = $parse['host'];
+        // $ggt_path = $parse['path'];
+        // $protocol = $parse['scheme']=='http' ? '&_x_tr_sch=http' : '';
+        // $ggt_domain = str_replace('.', '-', $web_version_domain);
+        // $ggt_params = '?_x_tr_sl=auto&_x_tr_tl='.$lang_code.$protocol;
+        // return 'https://'.$ggt_domain.'.translate.goog'.$ggt_path.$ggt_params;
+
+        return 'https://translate.google.com/translate?js=n&sl=auto&tl=' . $lang_code . '&u=' . $url;
+    } else return $url;
+}
+
+//------------------------------------------------------//
+function country_code_to_country($code)
+//------------------------------------------------------//
+{
+    $country = '';
+    if ($code == 'AF') $country = 'Afghanistan';
+    if ($code == 'AX') $country = 'Aland Islands';
+    if ($code == 'AL') $country = 'Albania';
+    if ($code == 'DZ') $country = 'Algeria';
+    if ($code == 'AS') $country = 'American Samoa';
+    if ($code == 'AD') $country = 'Andorra';
+    if ($code == 'AO') $country = 'Angola';
+    if ($code == 'AI') $country = 'Anguilla';
+    if ($code == 'AQ') $country = 'Antarctica';
+    if ($code == 'AG') $country = 'Antigua and Barbuda';
+    if ($code == 'AR') $country = 'Argentina';
+    if ($code == 'AM') $country = 'Armenia';
+    if ($code == 'AW') $country = 'Aruba';
+    if ($code == 'AU') $country = 'Australia';
+    if ($code == 'AT') $country = 'Austria';
+    if ($code == 'AZ') $country = 'Azerbaijan';
+    if ($code == 'BS') $country = 'Bahamas the';
+    if ($code == 'BH') $country = 'Bahrain';
+    if ($code == 'BD') $country = 'Bangladesh';
+    if ($code == 'BB') $country = 'Barbados';
+    if ($code == 'BY') $country = 'Belarus';
+    if ($code == 'BE') $country = 'Belgium';
+    if ($code == 'BZ') $country = 'Belize';
+    if ($code == 'BJ') $country = 'Benin';
+    if ($code == 'BM') $country = 'Bermuda';
+    if ($code == 'BT') $country = 'Bhutan';
+    if ($code == 'BO') $country = 'Bolivia';
+    if ($code == 'BA') $country = 'Bosnia and Herzegovina';
+    if ($code == 'BW') $country = 'Botswana';
+    if ($code == 'BV') $country = 'Bouvet Island (Bouvetoya)';
+    if ($code == 'BR') $country = 'Brazil';
+    if ($code == 'IO') $country = 'British Indian Ocean Territory (Chagos Archipelago)';
+    if ($code == 'VG') $country = 'British Virgin Islands';
+    if ($code == 'BN') $country = 'Brunei Darussalam';
+    if ($code == 'BG') $country = 'Bulgaria';
+    if ($code == 'BF') $country = 'Burkina Faso';
+    if ($code == 'BI') $country = 'Burundi';
+    if ($code == 'KH') $country = 'Cambodia';
+    if ($code == 'CM') $country = 'Cameroon';
+    if ($code == 'CA') $country = 'Canada';
+    if ($code == 'CV') $country = 'Cape Verde';
+    if ($code == 'KY') $country = 'Cayman Islands';
+    if ($code == 'CF') $country = 'Central African Republic';
+    if ($code == 'TD') $country = 'Chad';
+    if ($code == 'CL') $country = 'Chile';
+    if ($code == 'CN') $country = 'China';
+    if ($code == 'CX') $country = 'Christmas Island';
+    if ($code == 'CC') $country = 'Cocos (Keeling) Islands';
+    if ($code == 'CO') $country = 'Colombia';
+    if ($code == 'KM') $country = 'Comoros the';
+    if ($code == 'CD') $country = 'Congo';
+    if ($code == 'CG') $country = 'Congo the';
+    if ($code == 'CK') $country = 'Cook Islands';
+    if ($code == 'CR') $country = 'Costa Rica';
+    if ($code == 'CI') $country = 'Cote d\'Ivoire';
+    if ($code == 'HR') $country = 'Croatia';
+    if ($code == 'CU') $country = 'Cuba';
+    if ($code == 'CY') $country = 'Cyprus';
+    if ($code == 'CZ') $country = 'Czech Republic';
+    if ($code == 'DK') $country = 'Denmark';
+    if ($code == 'DJ') $country = 'Djibouti';
+    if ($code == 'DM') $country = 'Dominica';
+    if ($code == 'DO') $country = 'Dominican Republic';
+    if ($code == 'EC') $country = 'Ecuador';
+    if ($code == 'EG') $country = 'Egypt';
+    if ($code == 'SV') $country = 'El Salvador';
+    if ($code == 'GQ') $country = 'Equatorial Guinea';
+    if ($code == 'ER') $country = 'Eritrea';
+    if ($code == 'EE') $country = 'Estonia';
+    if ($code == 'ET') $country = 'Ethiopia';
+    if ($code == 'FO') $country = 'Faroe Islands';
+    if ($code == 'FK') $country = 'Falkland Islands (Malvinas)';
+    if ($code == 'FJ') $country = 'Fiji the Fiji Islands';
+    if ($code == 'FI') $country = 'Finland';
+    if ($code == 'FR') $country = 'France';
+    if ($code == 'GF') $country = 'French Guiana';
+    if ($code == 'PF') $country = 'French Polynesia';
+    if ($code == 'TF') $country = 'French Southern Territories';
+    if ($code == 'GA') $country = 'Gabon';
+    if ($code == 'GM') $country = 'Gambia the';
+    if ($code == 'GE') $country = 'Georgia';
+    if ($code == 'DE') $country = 'Germany';
+    if ($code == 'GH') $country = 'Ghana';
+    if ($code == 'GI') $country = 'Gibraltar';
+    if ($code == 'GR') $country = 'Greece';
+    if ($code == 'GL') $country = 'Greenland';
+    if ($code == 'GD') $country = 'Grenada';
+    if ($code == 'GP') $country = 'Guadeloupe';
+    if ($code == 'GU') $country = 'Guam';
+    if ($code == 'GT') $country = 'Guatemala';
+    if ($code == 'GG') $country = 'Guernsey';
+    if ($code == 'GN') $country = 'Guinea';
+    if ($code == 'GW') $country = 'Guinea-Bissau';
+    if ($code == 'GY') $country = 'Guyana';
+    if ($code == 'HT') $country = 'Haiti';
+    if ($code == 'HM') $country = 'Heard Island and McDonald Islands';
+    if ($code == 'VA') $country = 'Holy See (Vatican City State)';
+    if ($code == 'HN') $country = 'Honduras';
+    if ($code == 'HK') $country = 'Hong Kong';
+    if ($code == 'HU') $country = 'Hungary';
+    if ($code == 'IS') $country = 'Iceland';
+    if ($code == 'IN') $country = 'India';
+    if ($code == 'ID') $country = 'Indonesia';
+    if ($code == 'IR') $country = 'Iran';
+    if ($code == 'IQ') $country = 'Iraq';
+    if ($code == 'IE') $country = 'Ireland';
+    if ($code == 'IM') $country = 'Isle of Man';
+    if ($code == 'IL') $country = 'Israel';
+    if ($code == 'IT') $country = 'Italy';
+    if ($code == 'JM') $country = 'Jamaica';
+    if ($code == 'JP') $country = 'Japan';
+    if ($code == 'JE') $country = 'Jersey';
+    if ($code == 'JO') $country = 'Jordan';
+    if ($code == 'KZ') $country = 'Kazakhstan';
+    if ($code == 'KE') $country = 'Kenya';
+    if ($code == 'KI') $country = 'Kiribati';
+    if ($code == 'KP') $country = 'Korea';
+    if ($code == 'KR') $country = 'Korea';
+    if ($code == 'KW') $country = 'Kuwait';
+    if ($code == 'KG') $country = 'Kyrgyz Republic';
+    if ($code == 'LA') $country = 'Lao';
+    if ($code == 'LV') $country = 'Latvia';
+    if ($code == 'LB') $country = 'Lebanon';
+    if ($code == 'LS') $country = 'Lesotho';
+    if ($code == 'LR') $country = 'Liberia';
+    if ($code == 'LY') $country = 'Libyan Arab Jamahiriya';
+    if ($code == 'LI') $country = 'Liechtenstein';
+    if ($code == 'LT') $country = 'Lithuania';
+    if ($code == 'LU') $country = 'Luxembourg';
+    if ($code == 'MO') $country = 'Macao';
+    if ($code == 'MK') $country = 'Macedonia';
+    if ($code == 'MG') $country = 'Madagascar';
+    if ($code == 'MW') $country = 'Malawi';
+    if ($code == 'MY') $country = 'Malaysia';
+    if ($code == 'MV') $country = 'Maldives';
+    if ($code == 'ML') $country = 'Mali';
+    if ($code == 'MT') $country = 'Malta';
+    if ($code == 'MH') $country = 'Marshall Islands';
+    if ($code == 'MQ') $country = 'Martinique';
+    if ($code == 'MR') $country = 'Mauritania';
+    if ($code == 'MU') $country = 'Mauritius';
+    if ($code == 'YT') $country = 'Mayotte';
+    if ($code == 'MX') $country = 'Mexico';
+    if ($code == 'FM') $country = 'Micronesia';
+    if ($code == 'MD') $country = 'Moldova';
+    if ($code == 'MC') $country = 'Monaco';
+    if ($code == 'MN') $country = 'Mongolia';
+    if ($code == 'ME') $country = 'Montenegro';
+    if ($code == 'MS') $country = 'Montserrat';
+    if ($code == 'MA') $country = 'Morocco';
+    if ($code == 'MZ') $country = 'Mozambique';
+    if ($code == 'MM') $country = 'Myanmar';
+    if ($code == 'NA') $country = 'Namibia';
+    if ($code == 'NR') $country = 'Nauru';
+    if ($code == 'NP') $country = 'Nepal';
+    if ($code == 'AN') $country = 'Netherlands Antilles';
+    if ($code == 'NL') $country = 'Netherlands';
+    if ($code == 'NC') $country = 'New Caledonia';
+    if ($code == 'NZ') $country = 'New Zealand';
+    if ($code == 'NI') $country = 'Nicaragua';
+    if ($code == 'NE') $country = 'Niger';
+    if ($code == 'NG') $country = 'Nigeria';
+    if ($code == 'NU') $country = 'Niue';
+    if ($code == 'NF') $country = 'Norfolk Island';
+    if ($code == 'MP') $country = 'Northern Mariana Islands';
+    if ($code == 'NO') $country = 'Norway';
+    if ($code == 'OM') $country = 'Oman';
+    if ($code == 'PK') $country = 'Pakistan';
+    if ($code == 'PW') $country = 'Palau';
+    if ($code == 'PS') $country = 'Palestinian Territory';
+    if ($code == 'PA') $country = 'Panama';
+    if ($code == 'PG') $country = 'Papua New Guinea';
+    if ($code == 'PY') $country = 'Paraguay';
+    if ($code == 'PE') $country = 'Peru';
+    if ($code == 'PH') $country = 'Philippines';
+    if ($code == 'PN') $country = 'Pitcairn Islands';
+    if ($code == 'PL') $country = 'Poland';
+    if ($code == 'PT') $country = 'Portugal';
+    if ($code == 'PR') $country = 'Puerto Rico';
+    if ($code == 'QA') $country = 'Qatar';
+    if ($code == 'RE') $country = 'Reunion';
+    if ($code == 'RO') $country = 'Romania';
+    if ($code == 'RU') $country = 'Russian Federation';
+    if ($code == 'RW') $country = 'Rwanda';
+    if ($code == 'BL') $country = 'Saint Barthelemy';
+    if ($code == 'SH') $country = 'Saint Helena';
+    if ($code == 'KN') $country = 'Saint Kitts and Nevis';
+    if ($code == 'LC') $country = 'Saint Lucia';
+    if ($code == 'MF') $country = 'Saint Martin';
+    if ($code == 'PM') $country = 'Saint Pierre and Miquelon';
+    if ($code == 'VC') $country = 'Saint Vincent and the Grenadines';
+    if ($code == 'WS') $country = 'Samoa';
+    if ($code == 'SM') $country = 'San Marino';
+    if ($code == 'ST') $country = 'Sao Tome and Principe';
+    if ($code == 'SA') $country = 'Saudi Arabia';
+    if ($code == 'SN') $country = 'Senegal';
+    if ($code == 'RS') $country = 'Serbia';
+    if ($code == 'SC') $country = 'Seychelles';
+    if ($code == 'SL') $country = 'Sierra Leone';
+    if ($code == 'SG') $country = 'Singapore';
+    if ($code == 'SK') $country = 'Slovakia (Slovak Republic)';
+    if ($code == 'SI') $country = 'Slovenia';
+    if ($code == 'SB') $country = 'Solomon Islands';
+    if ($code == 'SO') $country = 'Somalia, Somali Republic';
+    if ($code == 'ZA') $country = 'South Africa';
+    if ($code == 'GS') $country = 'South Georgia and the South Sandwich Islands';
+    if ($code == 'ES') $country = 'Spain';
+    if ($code == 'LK') $country = 'Sri Lanka';
+    if ($code == 'SD') $country = 'Sudan';
+    if ($code == 'SR') $country = 'Suriname';
+    if ($code == 'SJ') $country = 'Svalbard & Jan Mayen Islands';
+    if ($code == 'SZ') $country = 'Swaziland';
+    if ($code == 'SE') $country = 'Sweden';
+    if ($code == 'CH') $country = 'Switzerland, Swiss Confederation';
+    if ($code == 'SY') $country = 'Syrian Arab Republic';
+    if ($code == 'TW') $country = 'Taiwan';
+    if ($code == 'TJ') $country = 'Tajikistan';
+    if ($code == 'TZ') $country = 'Tanzania';
+    if ($code == 'TH') $country = 'Thailand';
+    if ($code == 'TL') $country = 'Timor-Leste';
+    if ($code == 'TG') $country = 'Togo';
+    if ($code == 'TK') $country = 'Tokelau';
+    if ($code == 'TO') $country = 'Tonga';
+    if ($code == 'TT') $country = 'Trinidad and Tobago';
+    if ($code == 'TN') $country = 'Tunisia';
+    if ($code == 'TR') $country = 'Turkey';
+    if ($code == 'TM') $country = 'Turkmenistan';
+    if ($code == 'TC') $country = 'Turks and Caicos Islands';
+    if ($code == 'TV') $country = 'Tuvalu';
+    if ($code == 'UG') $country = 'Uganda';
+    if ($code == 'UA') $country = 'Ukraine';
+    if ($code == 'AE') $country = 'United Arab Emirates';
+    if ($code == 'GB') $country = 'United Kingdom';
+    if ($code == 'US') $country = 'United States';
+    if ($code == 'UM') $country = 'United States Minor Outlying Islands';
+    if ($code == 'VI') $country = 'United States Virgin Islands';
+    if ($code == 'UY') $country = 'Uruguay, Eastern Republic of';
+    if ($code == 'UZ') $country = 'Uzbekistan';
+    if ($code == 'VU') $country = 'Vanuatu';
+    if ($code == 'VE') $country = 'Venezuela';
+    if ($code == 'VN') $country = 'Vietnam';
+    if ($code == 'WF') $country = 'Wallis and Futuna';
+    if ($code == 'EH') $country = 'Western Sahara';
+    if ($code == 'YE') $country = 'Yemen';
+    if ($code == 'ZM') $country = 'Zambia';
+    if ($code == 'ZW') $country = 'Zimbabwe';
+    if ($code == 'IC') $country = 'Canary Islands';
+    if ($code == 'SX') $country = 'Sint Maarten';
+    if ($code == 'CW') $country = 'Curaçao';
+    if ($code == 'XK') $country = 'Kosovo';
+    if ($country == '') $country = $code;
+    return $country;
+}
+
+//--------------------------------------------------------------//
+function get_app_info($v) //app reference
+//--------------------------------------------------------------//
+{
+    global $mysqli;
+
+    switch ($v) {
+        case 'version':
+            return CURRENT_VERSION;
+            break;
+        case 'version_latest':
+            if (isset($_SESSION['version_latest'])) return $_SESSION['version_latest'];
+            else return;
+            break;
+        case 'cookie_domain':
+            return COOKIE_DOMAIN;
+            break;
+        case 'path':
+
+            //If accessing from custom domain, get custom domain details
+            if (CURRENT_DOMAIN != APP_PATH_DOMAIN) {
+                $q = 'SELECT id, custom_domain, custom_domain_protocol FROM apps WHERE custom_domain = "' . CURRENT_DOMAIN . '"';
+                $r = mysqli_query($mysqli, $q);
+                if ($r && mysqli_num_rows($r) > 0) {
+                    while ($row = mysqli_fetch_array($r)) {
+                        $app_id = $row['id'];
+                        $custom_domain = $row['custom_domain'];
+                        $custom_domain_protocol = $row['custom_domain_protocol'];
+                        $parse = parse_url(APP_PATH);
+                        $domain = $parse['host'];
+                        $protocol = $parse['scheme'];
+                        $app_path = str_replace($domain, $custom_domain, APP_PATH);
+                        $app_path = str_replace($protocol, $custom_domain_protocol, $app_path);
+                    }
+                } else $app_path = APP_PATH;
+            } else $app_path = APP_PATH;
+
+            return $app_path;
+
+            break;
+        case 's3_key':
+            if (isset($_SESSION['s3_key'])) return $_SESSION['s3_key'];
+            else return;
+            break;
+        case 's3_secret':
+            if (isset($_SESSION['s3_secret'])) return $_SESSION['s3_secret'];
+            else return;
+            break;
+        case 'app':
+            if (isset($_GET['i']) && is_numeric($_GET['i'])) return mysqli_real_escape_string($mysqli, (int)$_GET['i']);
+            else if ($_GET['i'] == '') return '';
+            else echo '<script type="text/javascript">window.location = "' . APP_PATH . '/logout";</script>';
+            break;
+        case 'campaigns_only':
+            if (isset($_SESSION['campaigns_only'])) return $_SESSION['campaigns_only'];
+            else return;
+            break;
+        case 'templates_only':
+            if (isset($_SESSION['templates_only'])) return $_SESSION['templates_only'];
+            else return;
+            break;
+        case 'lists_only':
+            if (isset($_SESSION['lists_only'])) return $_SESSION['lists_only'];
+            else return;
+            break;
+        case 'reports_only':
+            if (isset($_SESSION['reports_only'])) return $_SESSION['reports_only'];
+            else return;
+            break;
+        case 'userID':
+            if (isset($_SESSION['userID'])) return $_SESSION['userID'];
+            else return;
+            break;
+        case 'name':
+            if (isset($_SESSION['name'])) return $_SESSION['name'];
+            else return;
+            break;
+        case 'company':
+            if (isset($_SESSION['company'])) $co = $_SESSION['company'];
+            else $co = '';
+            if ($co == '')
+                return company_name();
+            else
+                return $co;
+            break;
+        case 'email':
+            if (isset($_SESSION['email'])) return $_SESSION['email'];
+            else return;
+            break;
+        case 'password':
+            if (isset($_SESSION['password'])) return $_SESSION['password'];
+            else return;
+            break;
+        case 'api_key':
+            if (isset($_SESSION['api_key'])) return $_SESSION['api_key'];
+            else return;
+            break;
+        case 'license':
+            if (isset($_SESSION['license'])) return $_SESSION['license'];
+            else return;
+            break;
+        case 'is_sub_user':
+            if (isset($_SESSION['is_sub_user'])) return $_SESSION['is_sub_user'];
+            else return;
+            break;
+        case 'main_userID':
+            if (isset($_SESSION['tied_to'])) return $_SESSION['tied_to'];
+            else return;
+            break;
+        case 'restricted_to_app':
+            if (isset($_SESSION['restricted_to_app'])) return $_SESSION['restricted_to_app'];
+            else return;
+            break;
+        case 'timezone':
+            if (isset($_SESSION['timezone'])) return $_SESSION['timezone'];
+            else return;
+            break;
+        case 'language':
+            if (isset($_SESSION['language'])) return $_SESSION['language'];
+            else return;
+            break;
+        case 'cron_sending':
+            if ($_SESSION['cron'] == 1) return true;
+            else return false;
+            break;
+        case 'send_rate':
+            if (isset($_SESSION['send_rate'])) return $_SESSION['send_rate'];
+            else return;
+            break;
+        case 'ses_endpoint':
+            if (isset($_SESSION['ses_endpoint'])) return $_SESSION['ses_endpoint'];
+            else return;
+            break;
+        case 'auth_salt':
+            if (isset($_SESSION['auth_salt'])) return $_SESSION['auth_salt'];
+            else return;
+            break;
+        case 'ses_region':
+            if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.us-east-1.amazonaws.com') return 'N. Virginia';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.us-east-2.amazonaws.com') return 'Ohio';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.us-west-2.amazonaws.com') return 'Oregon';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.us-west-1.amazonaws.com') return 'N. California';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ca-central-1.amazonaws.com') return 'Canada';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.eu-west-1.amazonaws.com') return 'Ireland';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.eu-central-1.amazonaws.com') return 'Frankfurt';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.eu-west-2.amazonaws.com') return 'London';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.eu-south-1.amazonaws.com') return 'Milan';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.eu-west-3.amazonaws.com') return 'Paris';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.eu-north-1.amazonaws.com') return 'Stockholm';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-southeast-1.amazonaws.com') return 'Singapore';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-southeast-3.amazonaws.com') return 'Jakarta';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-southeast-2.amazonaws.com') return 'Sydney';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-northeast-1.amazonaws.com') return 'Tokyo';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-northeast-3.amazonaws.com') return 'Osaka';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-northeast-2.amazonaws.com') return 'Seoul';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.ap-south-1.amazonaws.com') return 'Mumbai';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.me-south-1.amazonaws.com') return 'Bahrain';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.af-south-1.amazonaws.com') return 'Cape Town';
+            else if (isset($_SESSION['ses_endpoint']) && $_SESSION['ses_endpoint'] == 'email.sa-east-1.amazonaws.com') return 'Sao Paulo';
+            else if (!isset($_SESSION['ses_endpoint'])) return 'No value';
+            else return;
+            break;
+        case 'zaps':
+            if (isset($_SESSION['zaps'])) return $_SESSION['zaps'];
+            else return;
+            break;
+        case 'brands_rows':
+            if (isset($_SESSION['brands_rows'])) return $_SESSION['brands_rows'];
+            else return;
+            break;
+        case 'strict_delete':
+            if (isset($_SESSION['strict_delete'])) return $_SESSION['strict_delete'];
+            else return;
+            break;
+        case 'dark_mode':
+            if (isset($_SESSION['dark_mode'])) return $_SESSION['dark_mode'];
+            else return;
+            break;
+    }
+}
